@@ -28,7 +28,7 @@
         <div class="row col-sm-6">
             <div class="card">
                 <div class="card-body">
-                    <p class="card-title fw-bold">Iam A Programmer</p>
+                    <p class="card-title fw-bold">I'm A Programmer</p>
                     <p class="card-text">Exhausted to find a great one candidate? follow me.</p>
                 </div>
             </div>
