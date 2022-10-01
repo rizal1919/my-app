@@ -16,7 +16,7 @@
 
     <title>Rizal De Studio</title>
 </head>
-<body>
+<body class="p-4">
 
     <div class="container mt-5 mb-3">
         <div class="row col-sm-8">
