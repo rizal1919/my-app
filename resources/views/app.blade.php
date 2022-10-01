@@ -120,7 +120,22 @@
             </div>
         </div>
         <div class="container text-center mb-5">
-            <a href="https://wa.me/6285733721962?text=Hi%20Rizal%20Fathurrahman" id="headline" class="col-sm-4 text-decoration-none btn btn-dark fs-2 p-4 rounded-pill"><i class="fa-brands fa-whatsapp mx-2"></i>Hire Me</a>
+            <button class="col-sm-4 btn btn-dark fs-2 p-4 rounded-pill" onclick="sendMessage()"><i class="fa-brands fa-whatsapp mx-2"></i>Hire Me</button>
+        </div>
+        <div class="container" style="margin-top: 150px;">
+            <h2 class="mb-4 text-center" id="headline">Special Thanks to</h2>
+            <p class="mb-5 text-center">
+                <span class="badge bg-light text-muted border border-1 rounded-pill mx-1 mb-2">Photo by Volodymyr Hryshchenko on Unsplash</span>
+                <span class="badge bg-light text-muted border border-1 rounded-pill mx-1 mb-2">Photo by Eddie Pipocas on Unsplash</span>
+                <span class="badge bg-light text-muted border border-1 rounded-pill mx-1 mb-2">Photo by Tiffany Tertipes on Unsplash</span>
+                <span class="badge bg-light text-muted border border-1 rounded-pill mx-1 mb-2">Photo by Diego PH on Unsplash</span>
+                <span class="badge bg-light text-muted border border-1 rounded-pill mx-1 mb-2">Institut Teknologi Telkom Surabaya</span>
+                <span class="badge bg-light text-muted border border-1 rounded-pill mx-1 mb-2">PT Mitra Tekno Persada</span>
+                <span class="badge bg-light text-muted border border-1 rounded-pill mx-1 mb-2">Dewan Perwakilan Mahasiswa ITTelkom Surabaya</span>
+                <span class="badge bg-light text-muted border border-1 rounded-pill mx-1 mb-2">Young On Top Surabaya</span>
+                <span class="badge bg-light text-muted border border-1 rounded-pill mx-1 mb-2">Bangkit Academy 2021</span>
+                <span class="badge bg-light text-muted border border-1 rounded-pill mx-1 mb-2">Computer Engineering 1st Generation</span>
+            </p>
         </div>
     </div>
     
@@ -130,6 +145,10 @@
     <script>
         const popoverTriggerList = document.querySelectorAll('[data-bs-toggle="popover"]');
         const popoverList = [...popoverTriggerList].map(popoverTriggerEl => new bootstrap.Popover(popoverTriggerEl));
+
+        const sendMessage = () => {
+            document.location.href = 'https://wa.me/6285733721962?text=Hi%20Rizal%20Fathurrahman';
+        }
     </script>
 </body>
 </html>
