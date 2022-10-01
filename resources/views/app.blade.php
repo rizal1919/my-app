@@ -65,9 +65,9 @@
             <h3 class="text-center mb-5" id="headline">What <span style="color: #EBDCB2;">projects</span> I've done so far</h3>
             <div class="row g-3 mt-5">
                 <div class="row row-cols-1 row-cols-md-4">
-                    <div class="col">
+                    <div class="col mb-3">
                         <div class="card">
-                            <img src="/img/internship-project.jpg" class="card-img rounded-0" alt="internship-project-pic" width="150" height="250">
+                            <img src="/img/internship-project.jpg" class="card-img rounded-0" alt="internship-project-pic" width="150" height="300">
                             <div class="card-img-overlay text-end">
                                 <span class="badge text-bg-dark">Alert System</span>
                             </div>
@@ -77,9 +77,9 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col">
+                    <div class="col mb-3">
                         <div class="card">
-                            <img src="/img/final-project.jpg" class="card-img rounded-0" alt="final-project-pic" width="150" height="250">
+                            <img src="/img/final-project.jpg" class="card-img rounded-0" alt="final-project-pic" width="150" height="300">
                             <div class="card-img-overlay text-end">
                                 <span class="badge text-bg-dark">Tracking System</span>
                             </div>
@@ -89,9 +89,9 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col">
+                    <div class="col mb-3">
                         <div class="card">
-                            <img src="/img/job-first-project.jpg" class="card-img rounded-0" alt="job-first-project-pic" width="150" height="250">
+                            <img src="/img/job-first-project.jpg" class="card-img rounded-0" alt="job-first-project-pic" width="150" height="300">
                             <div class="card-img-overlay text-end">
                                 <span class="badge text-bg-dark">Administration System</span>
                             </div>
@@ -101,9 +101,9 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col">
+                    <div class="col mb-3">
                         <div class="card">
-                            <img src="/img/portfolio-project.jpg" class="card-img rounded-0" alt="portfolio-project-pic" width="150" height="250">
+                            <img src="/img/portfolio-project.jpg" class="card-img rounded-0" alt="portfolio-project-pic" width="150" height="300">
                             <div class="card-img-overlay text-end">
                                 <span class="badge text-bg-dark">Portfolio</span>
                             </div>
