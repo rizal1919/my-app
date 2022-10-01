@@ -16,8 +16,8 @@
 
     <title>Rizal De Studio</title>
 </head>
-<body class="p-4">
-
+<body>
+    <div class="container p-4">
     <div class="container mt-5 mb-3">
         <div class="row col-sm-8">
             <h1 id="headline">Hi Recruiters!</h1>
@@ -43,6 +43,7 @@
                 <p style="margin-top: 50px; text-align:justify;">My fullname is Rizal Fathurrahman. People call me Rizal. Iam the first child and 23 years old. As a freshgraduate in 2022 I've spent a lot of times to explore my self. Organizations are space where I generate softskills such as <span class="badge text-bg-dark">team-work</span>, <span class="badge text-bg-dark">leadership</span>, <span class="badge text-bg-dark">time-management</span>, and <span class="badge text-bg-dark">adaptability</span>. I relize that These softkills are not genuine, but worth for me to have it. Passionate in programming especially web development has change my vision to a new version of me. <span class="badge text-bg-dark">Laravel</span> is the first framework of <span class="badge text-bg-dark">PHP</span> I learned to navigate my journey as a web programmer. Looking for someone who has a vision for innovation development for better people's life? <span class="fw-bold">You got one.</span></p>
             </div>
         </div>
+    </div>
     </div>
     
     <!-- JavaScript from bootstrap -->
