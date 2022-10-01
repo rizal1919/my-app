@@ -43,28 +43,20 @@
         <div class="container mb-5">
             <h3 id="headline" class="text-center mb-5"> <span style="color: #EBDCB2;">Tools</span> I work with</h3>
             <div class="row g-5 mb-3 d-flex justify-content-center">
-                <div class="col-sm-1 text-center">
+                <div class="col-sm-2 d-flex justify-content-between">
                     <img src="/img/html-5.png" width="50" tabindex="0" data-bs-toggle="popover" data-bs-content="Skill 75%" data-bs-placement="top" data-bs-trigger="hover focus" alt="html5-icon">
-                </div>
-                <div class="col-sm-1 text-center">
                     <img src="/img/css-3.png" width="50" tabindex="0" data-bs-toggle="popover" data-bs-content="Skill 55%" data-bs-placement="top" data-bs-trigger="hover focus" alt="css3-icon">
                 </div>
-                <div class="col-sm-1 text-center">
+                <div class="col-sm-2 d-flex justify-content-between">
                     <img src="/img/php.png" width="50" tabindex="0" data-bs-toggle="popover" data-bs-content="Skill 50%" data-bs-placement="top" data-bs-trigger="hover focus" alt="php-icon">
-                </div>
-                <div class="col-sm-1 text-center">
                     <img src="/img/js.png" width="50" tabindex="0" data-bs-toggle="popover" data-bs-content="Skill 25%" data-bs-placement="top" data-bs-trigger="hover focus" alt="javascript-icon">
                 </div>
-                <div class="col-sm-1 text-center">
+                <div class="col-sm-2 d-flex justify-content-between">
                     <img src="/img/github.png" width="50" tabindex="0" data-bs-toggle="popover" data-bs-content="Skill 85%" data-bs-placement="top" data-bs-trigger="hover focus" alt="github-icon">
-                </div>
-                <div class="col-sm-1 text-center">
                     <img src="/img/google-cloud.png" width="50" tabindex="0" data-bs-toggle="popover" data-bs-content="Skill 5%" data-bs-placement="top" data-bs-trigger="hover focus" alt="google-cloud-icon">
                 </div>
-                <div class="col-sm-1 text-center">
+                <div class="col-sm-2 d-flex justify-content-between">
                     <img src="/img/laravel.png" width="50" tabindex="0" data-bs-toggle="popover" data-bs-content="Skill 70%" data-bs-placement="top" data-bs-trigger="hover focus" alt="laravel-icon">
-                </div>
-                <div class="col-sm-1 text-center">
                     <img src="/img/bootstrap.png" width="50" tabindex="0" data-bs-toggle="popover" data-bs-content="Skill 75%" data-bs-placement="top" data-bs-trigger="hover focus" alt="bootstrap-icon">
                 </div>
             </div>
