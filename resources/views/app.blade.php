@@ -120,9 +120,16 @@
             </div>
         </div>
         <div class="container text-center mb-5">
-            <button class="col-sm-4 btn btn-dark fs-2 p-4 rounded-pill" onclick="sendMessage()"><i class="fa-brands fa-whatsapp mx-2"></i>Hire Me</button>
+            <div class="row g-1 text-center">
+                <div class="col-sm-4">
+                    <img src="/img/my-profile-pic-2.png" alt="hire-me-illustration" width="250">
+                </div>
+                <div class="col-sm-6">
+                    <button class="col-sm-12 btn btn-dark fs-3 p-4 rounded-pill" style="margin-top: 100px;" id="headline" onclick="sendMessage()"><i class="fa-brands fa-whatsapp mx-2"></i>Hire Me</button>
+                </div>
+            </div>
         </div>
-        <div class="container" style="margin-top: 150px;">
+        <div class="container" style="margin-top: 120px;">
             <h2 class="mb-4 text-center" id="headline">Special Thanks to</h2>
             <p class="mb-5 text-center">
                 <span class="badge bg-light text-muted border border-1 rounded-pill mx-1 mb-2">Photo by Volodymyr Hryshchenko on Unsplash</span>
