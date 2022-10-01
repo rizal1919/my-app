@@ -63,7 +63,7 @@
                     <img src="/img/bootstrap.png" width="50" tabindex="0" data-bs-toggle="popover" data-bs-content="Skill 75%" data-bs-placement="top" data-bs-trigger="hover focus" alt="bootstrap-icon">
                 </div>
             </div>
-            <p class="col-sm-7 mt-5 text-center" style="margin: 0px auto;">Each of those skills are in different percentage abilities. <span class="fw-bold">I'm not a professional yet,</span> but I'll be a great one soon. Fingercross. Anyway could you please hover or click those skill icon? Maybe you need the information.</p>
+            <p class="col-sm-7 mt-5 text-center" style="margin: 0px auto;">Each of those skills are in different percentage abilities. <span class="fw-bold">I'm not a professional yet,</span> but I'll be a great one soon. Fingercross. Anyway could you please hover or click one or more of those skill icon? Maybe you need the information.</p>
         </div>
         <div class="container mb-5" style="margin-top: 100px;">
             <h3 class="text-center mb-5" id="headline">What <span style="color: #EBDCB2;">projects</span> I've done so far</h3>
