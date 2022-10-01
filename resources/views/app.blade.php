@@ -36,7 +36,7 @@
                     <img src="/img/my-profile-pic.png" width="300px" alt="profile-pic-illustration">
                 </div>
                 <div class="col-sm-9">
-                    <p style="margin-top: 50px; text-align:justify;"><span class="fw-bold">I'm A Programmer.</span> My fullname is Rizal Fathurrahman. People call me Rizal. Iam the first child and 23 years old. As a freshgraduate in 2022 I've spent a lot of times to explore my self. Organizations are space where I generate softskills such as <span class="badge text-bg-dark">team-work</span>, <span class="badge text-bg-dark">leadership</span>, <span class="badge text-bg-dark">time-management</span>, and <span class="badge text-bg-dark">adaptability</span>. I realize that These softkills are not genuine, but worth for me to have it. Passionate in programming especially web development has change my vision to a new version of me. <span class="badge text-bg-dark">Laravel</span> is the first framework of <span class="badge text-bg-dark">PHP</span> I learned to navigate my journey as a web programmer. Looking for someone who has a vision for innovation development for better people's life? <span class="fw-bold">You got one.</span></p>
+                    <p style="margin-top: 50px; text-align:justify;"><span class="fw-bold">I'm A Programmer.</span> My fullname is Rizal Fathurrahman. People call me Rizal. Iam the first child and 23 years old. As a freshgraduate in 2022 I've spent a lot of times to explore my self. Organizations are space where I generate softskills such as <span class="badge text-bg-dark">team-work</span>, <span class="badge text-bg-dark">leadership</span>, <span class="badge text-bg-dark">time-management</span>, and <span class="badge text-bg-dark">adaptability</span>. I realize that These softkills are not genuine, but worth for me to have it. Passionate in programming especially web development has change my vision to a new version of me. <span class="badge text-bg-dark">Laravel</span> is the first framework of <span class="badge text-bg-dark">PHP</span> I learned to navigate my journey as a web programmer. Are you looking for someone who has a strong vision of innovation development to help or educate people's life? <span class="fw-bold">You got one.</span></p>
                 </div>
             </div>
         </div>
@@ -58,6 +58,61 @@
                 <div class="col-sm-2 d-flex justify-content-around">
                     <img src="/img/laravel.png" width="50" style="margin-right: 40px;" tabindex="0" data-bs-toggle="popover" data-bs-content="Skill 70%" data-bs-placement="top" data-bs-trigger="hover focus" alt="laravel-icon">
                     <img src="/img/bootstrap.png" width="50" tabindex="0" data-bs-toggle="popover" data-bs-content="Skill 75%" data-bs-placement="top" data-bs-trigger="hover focus" alt="bootstrap-icon">
+                </div>
+            </div>
+        </div>
+        <div class="container mb-5" style="margin-top: 100px;">
+            <h3 class="text-center mb-5" id="headline">What <span style="color: #EBDCB2;">projects</span> I've done so far</h3>
+            <div class="row g-3 mt-5">
+                <div class="row row-cols-1 row-cols-md-4">
+                    <div class="col">
+                        <div class="card">
+                            <img src="/img/internship-project.jpg" class="card-img rounded-0" alt="internship-project-pic" width="150" height="250">
+                            <div class="card-img-overlay text-end">
+                                <span class="badge text-bg-dark">Alert System</span>
+                            </div>
+                            <div class="card-body">
+                                <p class="card-title fw-bold">Chatbot Sipapa</p>
+                                <p class="card-text text-muted"><small>Jun - Jul 2021</small></p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col">
+                        <div class="card">
+                            <img src="/img/final-project.jpg" class="card-img rounded-0" alt="final-project-pic" width="150" height="250">
+                            <div class="card-img-overlay text-end">
+                                <span class="badge text-bg-dark">Tracking System</span>
+                            </div>
+                            <div class="card-body">
+                                <p class="card-title fw-bold">D-Tags</p>
+                                <p class="card-text text-muted"><small>Feb - Jul 2022</small></p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col">
+                        <div class="card">
+                            <img src="/img/job-first-project.jpg" class="card-img rounded-0" alt="job-first-project-pic" width="150" height="250">
+                            <div class="card-img-overlay text-end">
+                                <span class="badge text-bg-dark">Administration System</span>
+                            </div>
+                            <div class="card-body">
+                                <p class="card-title fw-bold">School Registration</p>
+                                <p class="card-text text-muted"><small>Jul 2022 - Present</small></p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col">
+                        <div class="card">
+                            <img src="/img/portfolio-project.jpg" class="card-img rounded-0" alt="portfolio-project-pic" width="150" height="250">
+                            <div class="card-img-overlay text-end">
+                                <span class="badge text-bg-dark">Portfolio</span>
+                            </div>
+                            <div class="card-body">
+                                <p class="card-title fw-bold">Personal Web</p>
+                                <p class="card-text text-muted"><small>In Progress</small></p>
+                            </div>
+                        </div>
+                    </div>
                 </div>
             </div>
         </div>
