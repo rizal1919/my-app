@@ -14,6 +14,9 @@
     <!-- my css file -->
     <link rel="stylesheet" href="/css/app.css">
 
+    <!-- my font-awsome link -->
+    <script src="https://kit.fontawesome.com/9dd10fc461.js" crossorigin="anonymous"></script>
+
     <title>Rizal De Studio</title>
 </head>
 <body>
@@ -116,9 +119,9 @@
                 </div>
             </div>
         </div>
-
-
-
+        <div class="container text-center mb-5">
+            <a href="https://wa.me/6285733721962?text=Hi%20Rizal%20Fathurrahman" id="headline" class="col-sm-4 text-decoration-none btn btn-dark fs-2 p-4 rounded-pill"><i class="fa-brands fa-whatsapp mx-2"></i>Hire Me</a>
+        </div>
     </div>
     
     <!-- JavaScript from bootstrap -->
