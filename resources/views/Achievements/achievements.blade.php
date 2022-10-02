@@ -3,7 +3,7 @@
 @include('navbar')
 @section('container')
 
-<div class="container my-5 text-center">
+<div class="container p-4 my-5 text-center">
     <h1 id="headline">Achievements and Certificates I've Ever Had</h1>
     <div class="row g-3 mt-5">
         <div class="col-sm-3">
