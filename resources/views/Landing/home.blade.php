@@ -4,7 +4,7 @@
 @section('container')
 
     <div class="container p-4">
-        <div class="container mt-5 mb-3">
+        <div class="container mb-3">
             <div class="row col-sm-8">
                 <h1 id="headline">Hi Recruiters!</h1>
                 <h1 id="headline">Your worth candidate is here</h1>
