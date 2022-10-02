@@ -7,7 +7,7 @@
     </div>
     <div class="container my-5 text-center">
         <img src="/img/internship/head-pic.jpg" class="mb-5 rounded img-fluid" alt="head-pic">
-        <h2 id="headline" class="mb-5">SIPAPA - Aplication Reporting System for Violance Cases</h2>
+        <h2 id="headline" class="mb-3">SIPAPA - Aplication Reporting System for Violance Cases</h2>
         
         <div class="col-sm-9 p-4" style="margin: 0px auto;">
             <p style="text-align: justify;">
@@ -29,10 +29,12 @@
             </p>
             <p class="fw-bold my-3 text-start">Jun 2021</p>
             <p style="text-align: justify;">
-                We headed to the maincourse; Capstone Project of Bangkit Academy. Topic that we took at that time was from The Ministry of Woman and Child Protection Indonesia. They have a problem with customer service staff who had a difficulties to handle so many questions and reporting cases in a single time. The amount of customer services were so small and they have to receive messages from all over indonesia. It sounds terrible right? <span class="fw-bold">Imagine if there was an urgent violance in Papua and no one can reported this imediately just because they should wait until the other case has successfully received.</span> Honestly i was worried in that time, cause who might think about innovation that is trully from reallife problem in this country? No one can deny. But I have to. I tried to think positive, put everything in efforts to get done all this mandatory project together with my teammates.
+                We headed to the maincourse; Capstone Project of Bangkit Academy. Topic that we took at that time was from <span class="badge text-bg-dark">The Ministry of Woman and Child Protection Indonesia.</span> They have a problem with customer service staff who had a difficulties to handle so many questions and reporting cases in a single time. The amount of customer services were so small and they have to receive messages from all over indonesia.</p>
+            <p style="text-align: justify;">
+                It sounds terrible right? <span class="fw-bold">Imagine if there was an urgent violance in Papua and no one can reported this imediately just because they should wait until the other case has successfully received.</span> Honestly i was worried in that time, cause who might think about innovation that is trully from reallife problem in this country? No one can deny. But I have to. I tried to think positive, put everything in efforts to get done all this mandatory project together with my teammates.
             </p>
             <p style="text-align: justify;">
-                Since a was accepted as a cloud computing student, I handled the back-end environment in GCP. It was my first ever time build environment through big platform, utilizing linux terminal, made a virtual private cloud network, installed any pre-requirement before deploying models and app, reserve an external IP, practiced to host a model with ngrox web hosting, triggered my team motivation everyday, lead all members to always keep up with the time, always did communicate everthing that we might not known before, we were still zero but still fight with everything. Until the day of final project persentation came up, we were ready.
+                Since a was accepted as a cloud computing student, I handled the back-end environment in GCP. It was my first ever time build environment through big platform, <span class="text-decoration-underline">utilizing linux terminal</span>, <span class="text-decoration-underline">made a virtual private cloud network</span>, <span class="text-decoration-underline">installed any pre-requirement before deploying models and app</span>, <span class="text-decoration-underline">reserve an external IP</span>, <span class="text-decoration-underline">practiced to host a model with ngrox web hosting</span>, <span class="text-decoration-underline">triggered my team motivation everyday</span>, <span class="text-decoration-underline">lead all members to always keep up with the time</span>, <span class="text-decoration-underline">always did communicate everthing that we might not known before</span>, we were still zero but still fight with everything. Until the day of final project persentation came up, we were ready.
             </p>
             <p class="fw-bold my-3 text-start">Aug 2021</p>
             <p style="text-align: justify;">
