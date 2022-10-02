@@ -9,7 +9,7 @@
         <img src="/img/internship/head-pic.jpg" class="mb-5 rounded img-fluid" alt="head-pic">
         <h2 id="headline" class="mb-5">SIPAPA - Aplication Reporting System for Violance Cases</h2>
         
-        <div class="col-sm-9" style="margin: 0px auto;">
+        <div class="col-sm-9 p-4" style="margin: 0px auto;">
             <p style="text-align: justify;">
                 The project has a big purpose. We mainly discused something out of the box behind this. Eventhough we never get into this position, we purely believe that some people specifically woman and children are in danger of violance cases everyday.
             </p>
