@@ -136,7 +136,6 @@
             </p>
         </div>
     </div>
-    <p id="active"><?php echo $active; ?></p>
 @endsection
 
 @push('javascript')

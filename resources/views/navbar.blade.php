@@ -1,4 +1,4 @@
-<div class="container mb-5">
+<div class="container" style="margin-bottom: 100px;">
   <nav class="navbar navbar-white bg-white fixed-top">
   <div class="container-fluid">
     <a class="text-decoration-none fw-bold text-dark" href="/" style="margin: 0px auto;">
