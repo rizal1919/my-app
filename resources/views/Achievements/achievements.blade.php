@@ -5,8 +5,7 @@
 
 <div class="container my-5 text-center">
     <h1 id="headline">Achievements and Certificates I've Ever Had</h1>
-    <h3 id="headline" class="mt-5 mb-3 text-start">Online Courses Certificates</h3>
-    <div class="row g-3 my-4">
+    <div class="row g-3 mt-5">
         <div class="col-sm-3">
             <img src="/img/achievements/PEMROGRAMAN DASAR WEB.jpg" alt="pemrograman_dasar_web" width="250">
             <p class="text-muted mt-2 text-center"><small>Pemrograman Dasar Web</small></p>
@@ -44,10 +43,21 @@
             <p class="text-muted mt-2 text-center"><small>Cloud Fundamental AWS</small></p>
         </div>
         <div class="col-sm-3">
+            <img src="/img/achievements/PANITIA.jpg" alt="PANITIA_DM" width="250">
+            <p class="text-muted mt-2 text-center"><small>Panitia PKKMB 2019</small></p>
+        </div>
+        <div class="col-sm-3">
+            <img src="/img/achievements/ROBOTIK.jpg" alt="Robotika" width="250">
+            <p class="text-muted mt-2 text-center"><small>Panitia Robotika</small></p>
+        </div>
+        <div class="col-sm-3">
+            <img src="/img/achievements/YOT_SBY.jpg" alt="Robotika" width="250">
+            <p class="text-muted mt-2 text-center"><small>Staff PGA YOT Surabaya</small></p>
+        </div>
+        <div class="col-sm-3">
             <img src="/img/achievements/JUNIOR WEB DEV.jpg" alt="junior_web_dev" width="250">
             <p class="text-muted mt-2 text-center"><small>Junior Web Dev - BNSP</small></p>
         </div>
-        <h3 id="headline" class="mt-5 mb-3 text-start">Organizations Certificates</h3>
         
     </div>
 </div>
