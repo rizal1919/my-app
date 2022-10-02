@@ -1,5 +1,6 @@
 @extends('app')
 
+@include('navbar')
 @section('container')
 
     <div class="container p-4">
@@ -16,11 +17,11 @@
         </div>
         <div class="container mb-5">
             <h3 id="headline" class="text-center">Let me tell you <span style="color: #EBDCB2;">who</span> I am</h3>
-            <div class="row g-3">
-                <div class="col-sm-3">
+            <div class="row g-2">
+                <div class="col-sm-4 mx-1">
                     <img src="/img/my-profile-pic.png" width="300px" alt="profile-pic-illustration">
                 </div>
-                <div class="col-sm-9">
+                <div class="col-sm-7">
                     <p style="margin-top: 50px; text-align:justify;"><span class="fw-bold">I'm A Programmer.</span> My fullname is Rizal Fathurrahman. People call me Rizal. Iam the first child and 23 years old. As a freshgraduate in 2022 I've spent a lot of times to explore my self. Organizations are space where I generate softskills such as <span class="badge text-bg-dark">team-work</span>, <span class="badge text-bg-dark">leadership</span>, <span class="badge text-bg-dark">time-management</span>, and <span class="badge text-bg-dark">adaptability</span>. I realize that These softkills are not genuine, but worth for me to have it. Passionate in programming especially web development has change my vision to a new version of me. <span class="badge text-bg-dark">Laravel</span> is the first framework of <span class="badge text-bg-dark">PHP</span> I learned to navigate my journey as a web programmer. Are you looking for someone who has a strong vision of innovation development to help or educate people's life? <span class="fw-bold">You got one.</span></p>
                 </div>
             </div>
@@ -45,7 +46,7 @@
                     <img src="/img/bootstrap.png" width="50" tabindex="0" data-bs-toggle="popover" data-bs-content="Skill 75%" data-bs-placement="top" data-bs-trigger="hover focus" alt="bootstrap-icon">
                 </div>
             </div>
-            <p class="col-sm-7 mt-5 text-center" style="margin: 0px auto;">Each of those skills are in different percentage abilities. <span class="fw-bold">I'm not a professional yet,</span> but I'll be a great one soon. Fingercross. Anyway could you please hover or click one or more of those skill icon? Maybe you need the information.</p>
+            <p class="col-sm-8 mt-5" style="margin: 0px auto; text-align: justify;">Each of those skills are in different percentage abilities. <span class="fw-bold">I'm not a professional yet,</span> but I'll be a great one soon. Fingercross. Anyway could you please hover or click one or more of those skill icon? Maybe you need the information.</p>
         </div>
         <div class="container mb-5" style="margin-top: 100px;">
             <h3 class="text-center mb-5" id="headline">What <span style="color: #EBDCB2;">projects</span> I've done so far</h3>
@@ -135,6 +136,7 @@
             </p>
         </div>
     </div>
+    <p id="active"><?php echo $active; ?></p>
 @endsection
 
 @push('javascript')
@@ -160,5 +162,7 @@
         document.getElementById('final-project').addEventListener('click', function(){
             alert('Sorry, content is not available yet');
         });
+
+        
     </script>
 @endpush

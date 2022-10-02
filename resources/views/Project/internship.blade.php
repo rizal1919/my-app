@@ -40,8 +40,13 @@
             <p style="text-align: justify;">
                 It was very challenging. Worked with a team we didn't know before and we should managed anything by all rules. If i was not prepared with <span class="badge text-bg-dark">Growth Mindset</span> class and implemented that value in Bangkit, I might not graduate from this program so well. But it was a journey of exploring. Bless to Me.
             </p>
-            <p style="text-align: justify;"></p>
+            
+            <div class="text-start">
+                <i class="fa-solid fa-arrow-left mx-2"></i><a href="/" class="text-decoration-none btn btn-dark btn-sm">Back</a>
+            </div>
         </div>
+        
+        
     
     </div>
 

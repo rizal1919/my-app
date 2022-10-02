@@ -14,9 +14,17 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::get('/', function () {
-    return view('Landing.home');
+    return view('Landing.home', [
+        'active' => 'Home'
+    ]);
 });
 
 Route::get('/internship', function(){
     return view('Project.internship');
+});
+
+Route::get('/achievements', function(){
+    return view('Achievements.achievements', [
+        'active' => 'Achievements'
+    ]);
 });
