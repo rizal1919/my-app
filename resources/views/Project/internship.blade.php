@@ -6,7 +6,7 @@
         <a href="/" class="text-decoration-none text-dark fw-bold mb-3"><i class="fa-solid fa-arrow-left mx-2"></i>Back to Home</a>
     </div>
     <div class="container my-5 text-center">
-        <img src="/img/internship/head-pic.jpg" class="mb-5 rounded" width="1150" alt="head-pic">
+        <img src="/img/internship/head-pic.jpg" class="mb-5 rounded img-fluid" alt="head-pic">
         <h2 id="headline" class="mb-5">SIPAPA - Aplication Reporting System for Violance Cases</h2>
         
         <div class="col-sm-9" style="margin: 0px auto;">
