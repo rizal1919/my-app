@@ -63,7 +63,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col mb-3 projects">
+                    <div class="col mb-3 projects" id="final-project">
                         <div class="card">
                             <img src="/img/final-project.jpg" class="card-img" style="border-radius: 5px 5px 0px 0px;" alt="final-project-pic" width="150" height="300">
                             <div class="card-img-overlay text-end">
@@ -75,7 +75,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col mb-3 projects">
+                    <div class="col mb-3 projects" id="work-project-1">
                         <div class="card">
                             <img src="/img/job-first-project.jpg" class="card-img" style="border-radius: 5px 5px 0px 0px;" alt="job-first-project-pic" width="150" height="300">
                             <div class="card-img-overlay text-end">
@@ -87,7 +87,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col mb-3 projects">
+                    <div class="col mb-3 projects" id="portfolio">
                         <div class="card">
                             <img src="/img/portfolio-project.jpg" class="card-img" style="border-radius: 5px 5px 0px 0px;" alt="portfolio-project-pic" width="150" height="300">
                             <div class="card-img-overlay text-end">
@@ -119,12 +119,19 @@
                 <span class="badge bg-light text-muted border border-1 rounded-pill mx-1 mb-2">Photo by Eddie Pipocas on Unsplash</span>
                 <span class="badge bg-light text-muted border border-1 rounded-pill mx-1 mb-2">Photo by Tiffany Tertipes on Unsplash</span>
                 <span class="badge bg-light text-muted border border-1 rounded-pill mx-1 mb-2">Photo by Diego PH on Unsplash</span>
+                <span class="badge bg-light text-muted border border-1 rounded-pill mx-1 mb-2">Photo by Milada Vigerova on Unsplash</span>
+                <span class="badge bg-light text-muted border border-1 rounded-pill mx-1 mb-2">DrawKit</span>
+                <span class="badge bg-light text-muted border border-1 rounded-pill mx-1 mb-2">Font Awesome</span>
                 <span class="badge bg-light text-muted border border-1 rounded-pill mx-1 mb-2">Institut Teknologi Telkom Surabaya</span>
+                <span class="badge bg-light text-muted border border-1 rounded-pill mx-1 mb-2">Web Programming Unpas</span>
                 <span class="badge bg-light text-muted border border-1 rounded-pill mx-1 mb-2">PT Mitra Tekno Persada</span>
                 <span class="badge bg-light text-muted border border-1 rounded-pill mx-1 mb-2">Dewan Perwakilan Mahasiswa ITTelkom Surabaya</span>
                 <span class="badge bg-light text-muted border border-1 rounded-pill mx-1 mb-2">Young On Top Surabaya</span>
                 <span class="badge bg-light text-muted border border-1 rounded-pill mx-1 mb-2">Bangkit Academy 2021</span>
                 <span class="badge bg-light text-muted border border-1 rounded-pill mx-1 mb-2">Computer Engineering 1st Generation</span>
+                <span class="badge bg-light text-muted border border-1 rounded-pill mx-1 mb-2">Reiza Nurrafi</span>
+                <span class="badge bg-light text-muted border border-1 rounded-pill mx-1 mb-2">Khairinadiar</span>
+                <span class="badge bg-light text-muted border border-1 rounded-pill mx-1 mb-2">Okky Prastyo</span>
             </p>
         </div>
     </div>
@@ -142,6 +149,16 @@
         let intern = document.getElementById('internship');
         intern.addEventListener('click', function(){
             document.location.href = '/internship';
+        });
+
+        document.getElementById('portfolio').addEventListener('click', function(){
+            alert('Sorry, content is not available yet');
+        });
+        document.getElementById('work-project-1').addEventListener('click', function(){
+            alert('Sorry, content is not available yet');
+        });
+        document.getElementById('final-project').addEventListener('click', function(){
+            alert('Sorry, content is not available yet');
         });
     </script>
 @endpush
