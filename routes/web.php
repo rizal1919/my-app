@@ -14,5 +14,9 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::get('/', function () {
-    return view('app');
+    return view('Landing.home');
+});
+
+Route::get('/internship', function(){
+    return view('Project.internship');
 });
