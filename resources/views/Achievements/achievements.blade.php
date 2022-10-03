@@ -19,13 +19,17 @@
             <p class="text-muted mt-2 text-center"><small>Back-End Web Dasar</small></p>
         </div>
         <div class="col-sm-3">
-            <img src="/img/achievements/ARCHITECTING COMPUTE ENGINE.jpg" alt="ARCHITECTING_COMPUTE_ENGINE" width="250">
-            <p class="text-muted mt-2 text-center"><small>Architecting Compute Engine</small></p>
+            <img src="/img/achievements/CLOUD FUNDAMENTAL AWS.jpg" alt="Cloud_fundamental_aws" width="250">
+            <p class="text-muted mt-2 text-center"><small>Cloud Fundamental AWS</small></p>
         </div>
         <div class="col-sm-3">
             <img src="/img/achievements/ARCHITECTING ON AWS.jpg" alt="ARCHITECTING_ON_AWS" width="250">
             <p class="text-muted mt-2 text-center"><small>Architecting On AWS</small></p>
         </div>
+        <div class="col-sm-3">
+            <img src="/img/achievements/ARCHITECTING COMPUTE ENGINE.jpg" alt="ARCHITECTING_COMPUTE_ENGINE" width="250">
+            <p class="text-muted mt-2 text-center"><small>Architecting Compute Engine</small></p>
+        </div> 
         <div class="col-sm-3">
             <img src="/img/achievements/IT SUPPORT.jpg" alt="IT_SUPPORT" width="250">
             <p class="text-muted mt-2 text-center"><small>Google IT Support</small></p>
@@ -37,10 +41,6 @@
         <div class="col-sm-3">
             <img src="/img/achievements/IT AUTOMATION WITH PYTHON.jpg" alt="it_automation_with_python" width="250">
             <p class="text-muted mt-2 text-center"><small>Google IT Automation With Python</small></p>
-        </div>
-        <div class="col-sm-3">
-            <img src="/img/achievements/CLOUD FUNDAMENTAL AWS.jpg" alt="Cloud_fundamental_aws" width="250">
-            <p class="text-muted mt-2 text-center"><small>Cloud Fundamental AWS</small></p>
         </div>
         <div class="col-sm-3">
             <img src="/img/achievements/PANITIA.jpg" alt="PANITIA_DM" width="250">
